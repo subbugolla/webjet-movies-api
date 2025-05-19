@@ -36,7 +36,7 @@ Webjet Movie Portal built using .Net 8 backend APIs and React frontend
    - Efficient UI updates
 
 4. **Clean architecture**
-TODO:   - Opportunity to seperate  Clean architecture with Core, Infrastructure, and API layers
+   - Opportunity to seperate Clean architecture with appropriate layers
 
 5. Unit Test and Code coveragae
    
@@ -70,13 +70,14 @@ TODO:   - Opportunity to seperate  Clean architecture with Core, Infrastructure,
 ### Backend
 
 1. Run the application:
+   - appsettings.json - Repleace __Access_Token__ with valid access token  
    - dotnet run
 
 ### Frontend
 
 2. Run the frontend:
    - npm install
-   - npm start
+   - npm start dev
    
 ## Things to improve
 
